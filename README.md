@@ -29,4 +29,4 @@ React Navigation kütüphanesinde kullanılan bir Hooktur ve mevcut ekrarnın na
 useLayoutEffect:
 Ekranda olacak güncellemeleri kullanıcıya göstermeden yapılmasını garanti etmek için kullanılır.
 
-<img src='' /># Task-App
+<img src='taskadd.gif' />
