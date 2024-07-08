@@ -1,3 +1,5 @@
+# Task App
+
 ## Kütüphaneler
 @react-native-async-storage/async-storage
 @react-navigation/native
@@ -26,3 +28,5 @@ useRoute:
 React Navigation kütüphanesinde kullanılan bir Hooktur ve mevcut ekrarnın navigasyon durumuna ve parametlerine erişim sağlar.Bu hook, özellikler ekranlar arasında veri taşımak ve mevcut ekranın bilgilerine erişmek için kullanılır.
 useLayoutEffect:
 Ekranda olacak güncellemeleri kullanıcıya göstermeden yapılmasını garanti etmek için kullanılır.
+
+<img src='' /># Task-App
